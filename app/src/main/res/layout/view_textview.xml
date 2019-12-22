@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@drawable/blue_sliderleft"
+    android:textColor="@color/colorPrimary"
+    android:text="T"
+    android:gravity="center"
+    android:id="@+id/image"
+
+    android:src="@mipmap/ic_launcher"
+    android:layout_width="50dp"
+    android:layout_height="50dp" />
